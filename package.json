@@ -1,0 +1,11 @@
+{
+  "name": "qx-com-vue2",
+  "version": "0.0.1",
+  "description": "vue2公共组价",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "QIXING",
+  "license": "ISC"
+}
